@@ -1,0 +1,2 @@
+pyvolt @ git+https://github.com/RWTH-ACS/pyvolt.git@787c04f9cec6f1584e8da341a3e9cd987ac0f1f6
+cimpy @ git+https://github.com/cim-iec/cimpy.git@4d706c1f34b4956c6cdc7425dd305eb54e52047e
