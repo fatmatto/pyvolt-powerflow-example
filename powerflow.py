@@ -6,8 +6,7 @@ res = cimpy.cim_import(
 system = network.System()
 
 base_apparent_power = 25
-system.load_cim_data(res['topology'], base_apparent_power=25
-                     )
+system.load_cim_data(res['topology'], base_apparent_power=25)
 
 # Execute power flow analysis
 results_pf, num_iter_cim = nv_powerflow.solve(system)
